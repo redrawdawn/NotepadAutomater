@@ -1,0 +1,8 @@
+C:\Users\16158\workspace\AutomationChallenge\notebookAutomater\bin\Debug\notebookAutomater.exe.config
+C:\Users\16158\workspace\AutomationChallenge\notebookAutomater\bin\Debug\notebookAutomater.exe
+C:\Users\16158\workspace\AutomationChallenge\notebookAutomater\bin\Debug\notebookAutomater.pdb
+C:\Users\16158\workspace\AutomationChallenge\notebookAutomater\obj\Debug\notebookAutomater.csproj.AssemblyReference.cache
+C:\Users\16158\workspace\AutomationChallenge\notebookAutomater\obj\Debug\notebookAutomater.csproj.SuggestedBindingRedirects.cache
+C:\Users\16158\workspace\AutomationChallenge\notebookAutomater\obj\Debug\notebookAutomater.csproj.CoreCompileInputs.cache
+C:\Users\16158\workspace\AutomationChallenge\notebookAutomater\obj\Debug\notebookAutomater.exe
+C:\Users\16158\workspace\AutomationChallenge\notebookAutomater\obj\Debug\notebookAutomater.pdb
